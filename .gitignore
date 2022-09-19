@@ -1,0 +1,7 @@
+venv
+New Plant Diseases Dataset(Augmented)
+*.pickle 
+Crop_Recommendation_dataset*
+New*
+*.h5
+temp.ipynb
